@@ -14,6 +14,6 @@ Horiseon accessibility challenge 1
  https://brenbrenda55.github.io/the-man/ 
 
  ## Screenshot of Product
-
-
+ 
+![challenege 1 finish product](https://user-images.githubusercontent.com/108436173/179436763-e99941d6-6a01-472e-9fcf-e0baaa85bc32.png)
  
